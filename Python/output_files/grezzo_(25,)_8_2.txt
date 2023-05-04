@@ -1,0 +1,7 @@
+Function name: grezzo
+Args: (25,)
+Number of threads: 8
+seq_iter: 2
+iter: 4
+Mean: = 5.832119275000196
+Variance: = 0.0014121097434263191

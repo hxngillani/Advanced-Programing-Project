@@ -1,0 +1,7 @@
+Function name: just_wait
+Args: (25,)
+Number of threads: 1
+seq_iter: 16
+iter: 4
+Mean: = 40.010687099999814
+Variance: = 1.607869199955929e-07
